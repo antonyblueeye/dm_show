@@ -1,0 +1,14 @@
+Requirements: 
+
+    Bundler: 
+        - gulp
+
+    Styles:
+        - sass (scss)
+
+    Images:
+        - transform into webp for all modern browers
+    
+    Pages that I should do (html)
+
+Git flow
