@@ -1,0 +1,48 @@
+{
+  "name": "dm_show",
+  "version": "1.0.0",
+  "description": "show dm children joy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonyblueeye/dm_show.git"
+  },
+  "keywords": [
+    "show",
+    "dm",
+    "joy",
+    "child"
+  ],
+  "author": "Anton Synieokyi <anton.synieokyi@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonyblueeye/dm_show/issues"
+  },
+  "homepage": "https://github.com/antonyblueeye/dm_show#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^4.0.1",
+    "gulp-file-include": "^2.2.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify-es": "^2.0.0",
+    "gulp-webp": "^4.0.1",
+    "gulp-webp-css": "^1.1.0",
+    "gulp-webp-html": "^1.0.2",
+    "gulp-webpcss": "^1.1.1",
+    "jquery": "^3.5.1"
+  },
+  "dependencies": {
+    "normalize.scss": "^0.1.0"
+  }
+}
